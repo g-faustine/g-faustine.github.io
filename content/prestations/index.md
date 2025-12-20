@@ -7,6 +7,14 @@ weight = 10
   author = 'John Smith'
 +++
 
+
+{{< figure
+  src="/images/brume.jpg"
+  alt="A photograph of Zion National Park"
+  class="ma0 w-75"
+>}}
+
+
 ## Randonnées à la journée ou demi-journée
 blkvnklnvklznl
 
@@ -216,7 +224,10 @@ Change detected, rebuilding site (#18).
 Source changed /galerie/index.md
 Web Server is available at //localhost:1313/ (bind address 127.0.0.1)
 Total in 35 ms
-## ItinéranceChange detected, rebuilding site (#9).
+
+## Itinérance
+
+Change detected, rebuilding site (#9).
 2025-12-20 16:12:41.273 +0100
 Template changed /partials/extend-head.html
 Web Server is available at //localhost:1313/ (bind address 127.0.0.1)
