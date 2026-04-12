@@ -25,10 +25,10 @@ name = "Galerie"
 pageRef = "galerie"
 weight = 30
 
-# [[main]]
-# name = "Posts"
-# pageRef = "posts"
-# weight = 30
+[[main]]
+name = "Mentions"
+pageRef = "mentions"
+weight = 30
 
 [[main]]
 name = "Contact"
