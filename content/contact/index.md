@@ -9,4 +9,7 @@ Pour toute demande me contacter par mail ou par téléphone
 
 <a href="mailto:faustine.geromel@gmail.com">faustine.geromel@gmail.com</a>
 
+
 06 25 67 21 80
+
+<!-- {{< google-reviews embed-id="25672037" >}} -->

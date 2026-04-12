@@ -1,0 +1,13 @@
+{{- /* Google Reviews widget shortcode
+Usage: {{< google-reviews "25672037">}}
+    or: {{< google-reviews embed-id="25672037">}}
+        */ -}}
+
+        {{- $embedId := .Get 0 | default (.Get "embed-id") -}}
+
+        {{- if not $embedId -}}
+        {{- errorf "google-reviews shortcode requires an embed-id parameter" -}}
+        {{- end -}}
+
+        <div class="sk-ww-google-reviews" data-embed-id="{{ $embedId }}"></div>
+        <script src="https://widgets.sociablekit.com/google-reviews/widget.js" defer></script>
