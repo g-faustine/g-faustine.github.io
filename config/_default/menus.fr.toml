@@ -17,8 +17,8 @@
 
 
 [[main]]
-name = "Prestations"
-pageRef = "prestations"
+name = "Randonnées thématiques"
+pageRef = "rando thematique"
 weight = 20
 
 [[main]]
