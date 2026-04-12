@@ -11,7 +11,7 @@ autoSwitchAppearance = false
 
 defaultThemeColor = "#beac91ff"
 
-enableSearch = false
+enableSearch = true
 enableCodeCopy = false
 enableImageLazyLoading = true
 enableImageWebp = true
@@ -32,9 +32,10 @@ image = "brume.jpg" # banner image
 
 [footer]
 showCopyright = true
-showThemeAttribution = true
+showThemeAttribution = false
 showAppearanceSwitcher = false
 showScrollToTop = true
+# copyright = "© 2026 Faustine Geromel. All rights reserved."
 
 [homepage]
 layout = "page"    # valid options: page, profile, custom
