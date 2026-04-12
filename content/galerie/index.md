@@ -8,7 +8,7 @@ resources:
 #     title: "Gallery Images"
   - src: "bota.jpg"
     title: "Randonnée botanique avec un groupe dans le Vercors"
-  - src: "image2.jpg"
+  - src: "brume.jpg"
     title: "This is the second image"
 weight : 50
 ---
