@@ -6,10 +6,14 @@ summary : false
 resources:
 #   - src: "assets/images/galerie/*.jpg"
 #     title: "Gallery Images"
-  - src: "bota.jpg"
+  - src: "botanique-vercors.jpg"
     title: "Randonnée botanique avec un groupe dans le Vercors"
-  - src: "image2.jpg"
-    title: "This is the second image"
+  - src: "lac-de-la-sitre.jpg"
+    title: "Randonée printanière en Belledonne"
+  - src: "falaises-vercors.jpg"
+    title: "Balcons du vercors"
+  - src: "pique-nique-vercors.jpg"
+    title: "Une pause bien méritée à l'abri du vent automnal"
 weight : 50
 ---
 
