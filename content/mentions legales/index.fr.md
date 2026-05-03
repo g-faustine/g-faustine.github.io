@@ -11,24 +11,31 @@ weight = 10
   <img src="faustine2.jpg" alt="Description de l'image" style="width: 500px; height: auto; border-radius: 8px;">
 </div>
 
-# Mentions légales
 
 ## Identité et informations générales
 
 FAUSTINE GEROMEL ACCOMPAGNATRICE EN MONTAGNE
+
 Statut : Micro-entreprise
+
 Siège social : 21 rue Nicolet, 38100 Grenoble, France
+
 Numéro SIRET : 95388760100029
+
 Code NAF : 9319Z
+
 Téléphone : 06 25 67 21 80
+
 Adresse mail : faustine.geromel@gmail.com
+
 Site web : xxxxxx
 
 ## Site web
 
 Conception : ce site a été développé par XXX. La responsable de la publication est Faustine Geromel.
 
-Hébergement : ce site est hébergé par la SAS OVH située au « 2, rue Kellermann – BP 80157 – 59100 ROUBAIX – FRANCE ». Téléphone : 0 820 698 765 N° indigo (0,118 €/min)
+Hébergement : ce site est hébergé par 
+<!-- la SAS OVH située au « 2, rue Kellermann – BP 80157 – 59100 ROUBAIX – FRANCE ». Téléphone : 0 820 698 765 N° indigo (0,118 €/min) -->
 
 ## Propriété intellectuelle
 

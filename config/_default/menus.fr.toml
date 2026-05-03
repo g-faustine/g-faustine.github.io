@@ -17,17 +17,17 @@
 
 
 [[main]]
-name = "Randonnées thématiques"
+name = "Sorties à thème"
 pageRef = "rando thematique"
 weight = 10
 
 [[main]]
-name = "Randonnées en itinérance"
+name = "Randonnée itinérante"
 pageRef = "rando itinerante"
 weight = 20
 
 [[main]]
-name = "Projet sur mesure"
+name = "Sur mesure"
 pageRef = "projet sur mesure"
 weight = 30
 

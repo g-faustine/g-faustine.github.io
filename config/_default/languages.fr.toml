@@ -3,9 +3,9 @@ languageName = "French"
 languageDirection = "ltr"
 weight = 1
 
-title = "Faustine Geromel"
+title = "Accueil"
 # copyright = "Copy, _right?_ :thinking_face:"
-# copyright = "© 2026 Faustine Geromel"
+copyright = "© 2026 Faustine Geromel"
 
 [params]
 dateFormat = "2 January 2006"

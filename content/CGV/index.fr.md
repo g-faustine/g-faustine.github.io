@@ -11,8 +11,6 @@ weight = 10
   <img src="faustine2.jpg" alt="Description de l'image" style="width: 500px; height: auto; border-radius: 8px;">
 </div>
 
-# Conditions générales de vente
-
 La réservation d’au moins une prestation proposée par la micro-entreprise Faustine Geromel implique l’acceptation des présentes conditions générales de vente.
 
 Une réservation devient effective à signature du devis et réception d’un acompte d’un montant correspondant à 20% du contrat. Le solde devra être payé au plus tard le jour de la prestation. Le paiement peut être réalisé par virement bancaire, chèque ou espèces.
