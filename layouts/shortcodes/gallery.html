@@ -1,5 +1,7 @@
 <div class="gallery-grid">
-    {{ range (.Page.Resources.Match "*.jpg") }}
+    {{ $folder := .Get "folder" }}
+    {{ $pattern := printf "%s/*.jpg" $folder }}
+    {{ range (.Page.Resources.Match $pattern) }}
     <div class="gallery-item">
         <a href="{{ .RelPermalink }}" data-lightbox="gallery" data-title="{{ .Title }}">
             <img src="{{ .RelPermalink }}" alt="{{ .Title }}">

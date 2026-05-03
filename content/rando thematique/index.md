@@ -1,12 +1,17 @@
-+++
-date = 2024-02-02T04:14:54-08:00
-draft = false
-title = 'Randonnées thématiques'
-weight = 10
-[params]
-  author = 'Faustine'
-+++
+---
+date : 2024-02-02T04:14:54-08:00
+draft : false
+title : "Randonnées thématiques"
+weight : 10
+author : "Faustine"
 
+resources:
+  - src: "images_bota/030_bota.jpg"
+    title: "Randonnée botanique dans le Vercors"
+
+  - src: "images_falaise/020_brume.jpg"
+    title: "Les balcons du Vercors"
+---
 
 {{< figure
   src="/images/brume.jpg"
@@ -16,6 +21,14 @@ weight = 10
 
 
 ## Plantes curieuses
+
+
+{{< image-text image="images_bota/chardon_glacier.jpg" alt="Chardon" width="300px" >}}
+### titre image 
+Le temps d'une balade, ouvrons l'oeil sur les plantes qui bordent le chemin ! Elles sont nombreuses à réserver des surprises : comestibles, médicinales ou mortellement toxiques....
+
+{{< /image-text >}}
+
 
 Le temps d'une balade, ouvrons l'oeil sur les plantes qui bordent le chemin ! Elles sont nombreuses à réserver des surprises : comestibles, médicinales ou mortellement toxiques....
 
@@ -28,7 +41,7 @@ Le temps d'une balade, ouvrons l'oeil sur les plantes qui bordent le chemin ! El
 
 [Contactez-moi]({{< relref "/contact" >}}) pour choisir ensemble une date et une destination !
 
-
+{{< gallery folder="images_falaise">}}
 
 ## Botaniste en herbe
 
@@ -59,4 +72,4 @@ Ouvrons grand nos oreilles pour nous laisser charmer par le chant des oiseaux, e
 
 [Contactez-moi]({{< relref "/contact" >}}) pour choisir ensemble une date et une destination ! -->
 
-{{< gallery >}}
+{{< gallery folder="images_bota">}}
