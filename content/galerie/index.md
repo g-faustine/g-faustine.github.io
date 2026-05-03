@@ -68,5 +68,5 @@ weight : 50
 
 
 Quelques images de sorties réalisées :
-{{< gallery folder="images" >}}
+{{< gallery folder="images" height="150px" maxWidth="200px" >}}
 
