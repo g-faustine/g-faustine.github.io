@@ -19,22 +19,27 @@
 [[main]]
 name = "Randonnées thématiques"
 pageRef = "rando thematique"
+weight = 10
+
+[[main]]
+name = "Randonnées en itinérance"
+pageRef = "rando itinerante"
 weight = 20
 
 [[main]]
-name = "Galerie"
-pageRef = "galerie"
-weight = 30
-
-[[main]]
-name = "Mentions"
-pageRef = "mentions"
+name = "Projet sur mesure"
+pageRef = "projet sur mesure"
 weight = 30
 
 [[main]]
 name = "Contact"
 pageRef = "contact"
 weight = 40
+
+[[main]]
+name = "Galerie"
+pageRef = "galerie"
+weight = 50
 
 [[main]]
 identifier = "search"
@@ -53,6 +58,16 @@ action = "locale"
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-name = "Mentions légales"
-pageRef = "mentions"
-weight = 10
+  name = "Mentions légales"
+  pageRef = "mentions legales"
+  weight = 10
+
+  [[footer]]
+  name = "Conditions générales de vente"
+  pageRef = "CGV"
+  weight = 20
+
+   [[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 30
