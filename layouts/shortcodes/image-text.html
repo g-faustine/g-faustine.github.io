@@ -1,7 +1,10 @@
 <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
-    {{ $image := .Get "image" }}{{ $alt := .Get "alt" }}{{ $width := .Get "width" | default "300px" }}
-    <img src="{{ $image }}" alt="{{ $alt }}" style="flex: 0 0 {{ $width }}; height: 200px; object-fit: cover;">
-    <div style="flex: 1; min-width: 250px;">
+    {{ $image := .Get "image" }}{{ $alt := .Get "alt" }}{{ $width := .Get "width" | default "300px" }}{{ $side := .Get
+    "side" | default "left" }}
+    {{ $imageOrder := cond (eq $side "right") 2 1 }}{{ $textOrder := cond (eq $side "right") 1 2 }}
+    <img src="{{ $image }}" alt="{{ $alt }}"
+        style="flex: 0 0 {{ $width }}; height: 200px; object-fit: cover; order: {{ $imageOrder }};">
+    <div style="flex: 1; min-width: 250px; order: {{ $textOrder }};">
         {{ .Inner | markdownify }}
     </div>
 </div>
