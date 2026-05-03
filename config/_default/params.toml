@@ -32,7 +32,7 @@ image = "brume.jpg" # banner image
 
 [footer]
 showCopyright = true
-showThemeAttribution = false
+showThemeAttribution = true
 showAppearanceSwitcher = false
 showScrollToTop = true
 # copyright = "© 2026 Faustine Geromel. All rights reserved."

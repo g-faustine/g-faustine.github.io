@@ -58,3 +58,5 @@ Ouvrons grand nos oreilles pour nous laisser charmer par le chant des oiseaux, e
 - Tarif : 180€ (demi-journée) - 250€ (journée) - tarif pour groupe constitué
 
 [Contactez-moi]({{< relref "/contact" >}}) pour choisir ensemble une date et une destination ! -->
+
+{{< gallery >}}

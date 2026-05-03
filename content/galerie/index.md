@@ -67,6 +67,6 @@ weight : 50
 ---
 
 
-Quelques images de sorties réalisées
+Quelques images de sorties réalisées :
 {{< gallery >}}
 
