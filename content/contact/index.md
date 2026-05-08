@@ -5,7 +5,7 @@ title = 'Contact'
 weight = 100
 +++
 
-Pour toute demande, contactez-vous par mail ou par téléphone :
+Pour toute demande, contactez-moi par mail ou par téléphone :
 
 <a href="mailto:faustine.geromel@gmail.com">faustine.geromel@gmail.com</a>
 

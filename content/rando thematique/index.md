@@ -13,7 +13,7 @@ resources:
     title: "Les balcons du Vercors"
 ---
 
-{{< figure
+/{{< figure
   src="/images/brume.jpg"
   alt="A photograph of Zion National Park"
   class="ma0 w-75"
@@ -23,11 +23,11 @@ resources:
 ## Plantes curieuses
 
 
-{{< image-text image="images_bota/chardon_glacier.jpg" alt="Chardon" width="300px" side="right">}}
+<!-- {{< image-text image="images_bota/chardon_glacier.jpg" alt="Chardon" width="300px" side="right">}}
 ### titre image 
 Le temps d'une balade, ouvrons l'oeil sur les plantes qui bordent le chemin ! Elles sont nombreuses à réserver des surprises : comestibles, médicinales ou mortellement toxiques....
 
-{{< /image-text >}}
+{{< /image-text >}} -->
 
 
 Le temps d'une balade, ouvrons l'oeil sur les plantes qui bordent le chemin ! Elles sont nombreuses à réserver des surprises : comestibles, médicinales ou mortellement toxiques....
@@ -37,11 +37,11 @@ Le temps d'une balade, ouvrons l'oeil sur les plantes qui bordent le chemin ! El
 - Public : adultes et enfants à partir de 12 ans, 10 personnes maximum
 - Dates : sur demande, d'avril à juillet
 - Lieu : aux alentours de Grenoble, selon la saison et vos envies
-- Tarif : 180€ - tarif pour groupe constitué
+- Tarif pour groupe constitué : 150€
 
 [Contactez-moi]({{< relref "/contact" >}}) pour choisir ensemble une date et une destination !
 
-{{< gallery folder="images_falaise">}}
+{{< gallery folder="images_plantes_curieuses">}}
 
 ## Botaniste en herbe
 
@@ -53,7 +53,7 @@ Une fleur, c'est quoi exactement ? Comment ça marche ? Comment reconnaître les
 - Public : adultes, 10 personnes maximum
 - Lieu : aux alentours de Grenoble, selon la saison et vos envies
 - Dates : sur demande, d'avril à juillet
-- Tarif : 250€ - tarif pour groupe constitué
+- Tarif pour groupe constitué : 250€
 
 [Contactez-moi]({{< relref "/contact" >}}) pour choisir ensemble une date et une destination !
 

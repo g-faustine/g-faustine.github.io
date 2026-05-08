@@ -11,9 +11,9 @@ weight = 10
   <img src="faustine2.jpg" alt="Description de l'image" style="width: 500px; height: auto; border-radius: 0px;">
 </div>
 
-Je chéris les montagnes et la marche depuis de nombreuses années : enfant, mes parents m'emmenaient randonner pendant les vacances ; plus tard, j'ai découvert la magie des bivouacs et de l'itinérance. En 2022, je m'installe à Grenoble et me lance dans l'aventure de l'accompagnement en montagne.
+Je cotoie les montagnes et la marche depuis l'enfance, alors que mes parents m'emmenaient randonner pendant les vacances. Plus tard, j'ai découvert la magie de l'itinérance et des bivouacs. En 2022, je m'installe à Grenoble et me lance dans l'aventure de l'accompagnement en montagne.
 
-Je mène cette activité en parallèle d'un emploi salarié en tant qu'ingénieure dans le bâtiment, spécialiste de la rénovation énergétique. Ces deux activités sont pour moi profondément complémentaires : en tant qu'ingénieure, je cherche à contribuer à un futur plus respectueux de notre environnement. La montagne, en ne cessant de m'émerveiller, me rappelle pourquoi je mobilise mon énergie au quotidien pour préserver les milieux naturels dans lesquels nous vivons.
+Je mène cette activité en parallèle d'un emploi salarié en tant qu'ingénieure dans le bâtiment, spécialiste de la rénovation énergétique. Ces deux activités sont pour moi profondément complémentaires : en tant qu'ingénieure, je souhaite contribuer à un futur plus respectueux de notre environnement. La montagne, en ne cessant de m'émerveiller, me rappelle pourquoi je mobilise mon énergie au quotidien pour préserver les milieux naturels dans lesquels nous vivons.
 
 Cet émerveillement, je le ressens à toutes les échelles : depuis la fleur que j'observe à la loupe, jusqu'à l'immensité des paysages et au déchaînement des éléments, en passant par la rencontre inattendue avec un animal ou l'ambiance particulière d'une forêt brumeuse.
 Si j'emmène des personnes en montagne, c'est pour transmettre et partager cet amour et cette curiosité de ce qui nous entoure !
