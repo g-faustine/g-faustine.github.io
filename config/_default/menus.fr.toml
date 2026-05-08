@@ -16,13 +16,19 @@
 #   weight = 10
 
 
+
 [[main]]
-name = "Randonnées à thème"
-pageRef = "rando thematique"
+name = "Randonnées à la journée"
+pageRef = "rando journee"
+weight = 5
+
+[[main]]
+name = "Sorties à thème"
+pageRef = "sortie theme"
 weight = 10
 
 [[main]]
-name = "Randonnée itinérante"
+name = "Itinérance"
 pageRef = "rando itinerante"
 weight = 20
 

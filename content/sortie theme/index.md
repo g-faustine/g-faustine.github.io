@@ -1,7 +1,7 @@
 ---
 date : 2024-02-02T04:14:54-08:00
 draft : false
-title : "Randonnées thématiques"
+title : "Sorties à thème"
 weight : 10
 author : "Faustine"
 
@@ -13,14 +13,9 @@ resources:
     title: "Les balcons du Vercors"
 ---
 
-/{{< figure
-  src="/images/brume.jpg"
-  alt="A photograph of Zion National Park"
-  class="ma0 w-75"
->}}
+## Botanique
 
-
-## Plantes curieuses
+### Plantes curieuses
 
 
 <!-- {{< image-text image="images_bota/chardon_glacier.jpg" alt="Chardon" width="300px" side="right">}}
@@ -43,7 +38,7 @@ Le temps d'une balade, ouvrons l'oeil sur les plantes qui bordent le chemin ! El
 
 {{< gallery folder="images_plantes_curieuses">}}
 
-## Botaniste en herbe
+### Botaniste en herbe
 
 Une fleur, c'est quoi exactement ? Comment ça marche ? Comment reconnaître les plantes à coup sûr ? Si vous vous posez ces questions, cette sortie est faite pour vous.
 À l'occasion d'une randonnée en montagne, nous apprendrons à observer et décrire une plante, puis nous découvrirons les bases de l'identification au moyen d'une clé de détermination. Objectif : réussir à identifier les principales familles de plantes !
@@ -57,8 +52,9 @@ Une fleur, c'est quoi exactement ? Comment ça marche ? Comment reconnaître les
 
 [Contactez-moi]({{< relref "/contact" >}}) pour choisir ensemble une date et une destination !
 
+## Ornitho
 
-<!-- ## À l'écoute des oiseaux
+### À l'écoute des oiseaux
 
 C'est le printemps, les oiseaux chantent... Mais vous-êtes-vous déjà demandé qui sont ces chanteurs virtuoses ?
 Ouvrons grand nos oreilles pour nous laisser charmer par le chant des oiseaux, et apprendre à reconnaître les principales espèces. Il est souvent plus facile d'entendre les oiseaux que de les observer !
@@ -68,8 +64,8 @@ Ouvrons grand nos oreilles pour nous laisser charmer par le chant des oiseaux, e
 - Public : adultes, 10 personnes maximum
 - Lieu : selon vos envies et la saison, aux alentours de Grenoble
 - Dates : sur demande, d'avril à juillet
-- Tarif : 180€ (demi-journée) - 250€ (journée) - tarif pour groupe constitué
+- Tarif pour groupe constitué : 150€ (demi-journée) - 250€ (journée)
 
-[Contactez-moi]({{< relref "/contact" >}}) pour choisir ensemble une date et une destination ! -->
+[Contactez-moi]({{< relref "/contact" >}}) pour choisir ensemble une date et une destination !
 
 {{< gallery folder="images_bota">}}
