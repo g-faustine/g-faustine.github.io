@@ -7,9 +7,12 @@ weight = 10
   author = 'Faustine'
 +++
 
-<!-- <div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="faustine2.jpg" alt="Faustine Geromel Accompagnatrice en Montagne Grenoble" style="width: 500px; height: auto; border-radius: 0px;">
-</div> -->
+</div>
+
+<!-- {{< image-text image="faustine2.jpg" alt="Chardon" width="350px" side="left">}}
+{{< /image-text >}} -->
 
 Je cotoie les montagnes et la marche depuis l'enfance, alors que mes parents m'emmenaient randonner pendant les vacances. Plus tard, j'ai découvert la magie de l'itinérance et des bivouacs. En 2022, je m'installe à Grenoble et me lance dans l'aventure de l'accompagnement en montagne.
 
@@ -25,5 +28,5 @@ Je suis formée à la communication non violente : la bienveillance, l'écoute e
 Hâte de vous retrouver sur les sentiers !
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="hetres (Copie).jpg" alt="Description de l'image" style="width: 1500px; height: auto; border-radius: 0px;">
+  <img src="hetres_2.jpg" alt="Description de l'image" style="width: 1500px; height: auto; border-radius: 0px;">
 </div>

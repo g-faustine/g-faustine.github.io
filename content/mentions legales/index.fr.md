@@ -7,32 +7,22 @@ weight = 299
   author = 'Faustine'
 +++
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="faustine2.jpg" alt="Description de l'image" style="width: 500px; height: auto; border-radius: 8px;">
-</div>
-
-
 ## Identité et informations générales
 
-FAUSTINE GEROMEL ACCOMPAGNATRICE EN MONTAGNE
+Fausitne Geromel Accompagnatrice en Montagne
 
-Statut : Micro-entreprise
-
-Siège social : 21 rue Nicolet, 38100 Grenoble, France
-
-Numéro SIRET : 95388760100029
-
-Code NAF : 9319Z
-
-Téléphone : 06 25 67 21 80
-
-Adresse mail : faustine.geromel@gmail.com
-
-Site web : xxxxxx
+- Statut : micro-entreprise
+- Siège social : 21 rue Nicolet, 38100 Grenoble, France
+- Numéro SIRET : 95388760100029
+- Code NAF : 9319Z
+- Téléphone : 06 25 67 21 80
+- Adresse mail : faustine.geromel@gmail.com
+- Site web : xxxxxx
 
 ## Site web
 
-Conception : ce site a été développé par XXX. La responsable de la publication est Faustine Geromel.
+Conception : ce site est généré à l’aide du générateur de site statique Hugo, distribué sous licence Apache 2.0.
+Le thème utilisé est Congo, distribué sous licence MIT. La responsable de la publication est Faustine Geromel.
 
 Hébergement : ce site est hébergé par 
 <!-- la SAS OVH située au « 2, rue Kellermann – BP 80157 – 59100 ROUBAIX – FRANCE ». Téléphone : 0 820 698 765 N° indigo (0,118 €/min) -->
@@ -44,7 +34,8 @@ L’ensemble des contenus présents sur ce site (textes, images...) est protég�
 
 ## Activité règlementée
 
-Je suis titulaire d'un équivalent au diplôme d’État d’accompagnateur en montagne (statut de stagiaire valide du 03/06/2023 au 02/06/2028, ouvrant les prérogatives d'accompagnement à la journée ou en itinérance en refuge gardé, en conditions estivales). Je suis déclarée auprès du Service Départemental à la Jeunesse, à l’Engagement et aux Sports de l’Isère.
+Je suis titulaire d'un [équivalent au diplôme d’État d’accompagnateur en montagne](Documentstagiaire.png) (statut de stagiaire valide du 03/06/2023 au 02/06/2028, ouvrant les prérogatives d'accompagnement à la journée ou en itinérance en refuge gardé, en conditions estivales). Je suis déclarée auprès du Service Départemental à la Jeunesse, à l’Engagement et aux Sports de l’Isère.
+
 
 Mon activité est couverte par : 
 - Une assurance responsabilité civile professionnelle souscrite auprès de l'AN3S (47 Bis Rue Gambetta 71120 CHAROLLES), contrat n°675047304.
@@ -55,4 +46,4 @@ Mon activité est couverte par :
 Ce site n'utilise pas de coookies. Dans le cas d’une réservation ou d'un contrat, des données personnelles sont amenées à être collectées afin de réaliser la prestation. Ces données sont traitées conformément au Règlement Général sur la Protection des Données (RGPD), et les personnes concernées possèdent un droit d’interrogation, d’accès ou de rectification de ces données.
 
 
-Voir aussi : [Conditions générales de vente]({{< relref "/mentions legales" >}})
+Voir aussi : [Conditions générales de vente]({{< relref "/CGV" >}})

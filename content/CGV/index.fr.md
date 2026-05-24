@@ -1,15 +1,11 @@
 +++
 date = 2024-02-02T04:14:54-08:00
 draft = false
-title = 'Mentions légales'
+title = 'Conditions générales de vente'
 weight = 300
 [params]
   author = 'Faustine'
 +++
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="faustine2.jpg" alt="Description de l'image" style="width: 500px; height: auto; border-radius: 8px;">
-</div>
 
 La réservation d’au moins une prestation proposée par la micro-entreprise Faustine Geromel implique l’acceptation des présentes conditions générales de vente.
 

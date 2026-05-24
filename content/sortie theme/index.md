@@ -63,14 +63,6 @@ resources:
 
 ### Plantes curieuses
 
-
-<!-- {{< image-text image="images_bota/chardon_glacier.jpg" alt="Chardon" width="300px" side="right">}}
-### titre image 
-Le temps d'une balade, ouvrons l'oeil sur les plantes qui bordent le chemin ! Elles sont nombreuses à réserver des surprises : comestibles, médicinales ou mortellement toxiques....
-
-{{< /image-text >}} -->
-
-
 Le temps d'une balade, ouvrons l'oeil sur les plantes qui bordent le chemin : elles sont nombreuses à réserver des surprises : comestibles, médicinales ou mortellement toxiques....
 Au cours de cette sortie, je vous partagerai des anecdotes sur les plantes que l'on rencontrera.
 De quoi éveiller votre curiosité !
