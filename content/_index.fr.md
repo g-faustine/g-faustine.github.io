@@ -1,7 +1,7 @@
 +++
 date = 2024-02-02T04:14:54-08:00
 draft = false
-title = 'Faustine Geromel - Accompagnatrice en montagne'
+title = 'Accueil'
 weight = 10
 [params]
   author = 'Faustine'
@@ -27,6 +27,9 @@ Je suis formée à la communication non violente : la bienveillance, l'écoute e
 
 Hâte de vous retrouver sur les sentiers !
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="hetres_2.jpg" alt="Description de l'image" style="width: 1500px; height: auto; border-radius: 0px;">
-</div>
+{{< figure
+  src="/images/hetres_2.jpg"
+  alt="forêt de hêtres"
+  caption=""
+  class="ma0 w-75"
+  >}}

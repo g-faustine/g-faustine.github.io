@@ -1,3 +1,18 @@
 .max-w-prose {
     max-width: 120ch;
 }
+h1 {
+  font-size: 1.75rem;  /* Change this value */
+}
+
+h2 {
+  font-size: 1.5rem;  /* Change this value */
+}
+
+h3 {
+  font-size: 1.25rem;  /* Change this value */
+}
+.text-4xl {
+    font-size: 1.75rem;
+    line-height: 2.5rem;
+}

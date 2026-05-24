@@ -14,6 +14,9 @@ J'assure la planification sur mesure de votre randonnée, et l'accompagnement su
 [Contactez-moi]({{< relref "/contact" >}}) pour monter ensemble un projet !
 Un devis personnalisé vous sera adressé après avoir défini ensemble votre besoin.
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="faustine_assise.jpg" alt="Description de l'image" style="width: 500px; height: auto; border-radius: 0px;">
-</div>
+{{< figure
+  src="/images/faustine_assise.jpg"
+  alt="Faustine"
+  caption=""
+  class="ma0 w-75"
+  >}}

@@ -23,6 +23,9 @@ Je propose des séjours de quelques jours, avec nuits en refuge, aux alentours d
 
 ## Séjours à venir...
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="refugedrayeres.jpg" alt="Refuge des Drayères Clarée Cerces Névache" style="width: 1000px; height: auto; border-radius: 0px;">
-</div>
+{{< figure
+  src="/images/refugedrayeres.jpg"
+  alt="Refuge des Drayères Clarée Cerces Névache"
+  caption=""
+  class="ma0 w-75"
+  >}}
