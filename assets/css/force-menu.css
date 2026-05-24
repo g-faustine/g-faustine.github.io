@@ -1,0 +1,24 @@
+/* === FORCE MENU BREAKPOINT TO 1024px (lg) === */
+/* Le thème Congo ne génère pas les classes lg: dans Tailwind par défaut.
+   Ce CSS force manuellement l'affichage du menu à partir de 1024px. */
+
+/* 1. Cache le bouton hamburger à partir de 1024px */
+@media (min-width: 1024px) {
+  #menu-button {
+    display: none !important;
+  }
+}
+
+/* 2. Affiche le menu principal à partir de 1024px */
+@media (min-width: 1024px) {
+  nav > ul.hidden {
+    display: flex !important;
+  }
+}
+
+/* 3. Cache le wrapper du menu hamburger à partir de 1024px */
+@media (min-width: 1024px) {
+  #menu-wrapper {
+    display: none !important;
+  }
+}
