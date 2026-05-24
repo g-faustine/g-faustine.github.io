@@ -76,7 +76,7 @@ De quoi éveiller votre curiosité !
 
 [Contactez-moi]({{< relref "/contact" >}}) pour choisir ensemble une date et une destination !
 
-{{< gallery folder="images_plantes_curieuses" height="180px" maxWidth="200px">}}
+{{< gallery folder="images_plantes_curieuses" height="180px" maxWidth="200px" keepAspectRatio="false">}}
 
 ### Botaniste en herbe
 
@@ -94,7 +94,7 @@ L'objectif de cette sortie est double : vous donner des bases de méthode pour r
 
 [Contactez-moi]({{< relref "/contact" >}}) pour choisir ensemble une date et une destination !
 
-{{< gallery folder="images_bota" height="180px" maxWidth="200px">}}
+{{< gallery folder="images_bota" height="180px" maxWidth="200px" keepAspectRatio="false">}}
 
 ## Ornithologie
 
@@ -112,4 +112,5 @@ Le temps d'une randonnée en montagne, ouvrons grand nos oreilles pour nous lais
 
 [Contactez-moi]({{< relref "/contact" >}}) pour choisir ensemble une date et une destination !
 
-{{< gallery folder="images_oiseaux" height="180px" maxWidth="200px">}}
+{{< gallery folder="images_oiseaux" height="180px" maxWidth="200px" keepAspectRatio="true"
+>}}

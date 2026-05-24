@@ -2,12 +2,17 @@
 {{ $height := .Get "height" | default "150px" }}
 {{ $maxWidth := .Get "maxWidth" | default "200px" }}
 {{ $showLegend := .Get "showLegend" | default "false" }}
+{{ $keepAspectRatio := .Get "keepAspectRatio" | default "false" }}
 {{ $pattern := printf "%s/*.jpg" $folder }}
 <div class="gallery-grid" style="grid-template-columns: repeat(auto-fill, minmax({{ $maxWidth }}, 1fr));">
     {{ range (.Page.Resources.Match $pattern) }}
-    <div class="gallery-item">
+    <div class="gallery-item {{ if eq $keepAspectRatio "true" }}gallery-item-contain{{ else }}gallery-item-cover{{ end }}">
         <a href="{{ .RelPermalink }}" data-lightbox="gallery" data-title="{{ .Title }}">
-            <img src="{{ .RelPermalink }}" alt="{{ .Title }}" style="height: {{ $height }};">
+            {{ if eq $keepAspectRatio "true" }}
+            <img src="{{ .RelPermalink }}" alt="{{ .Title }}" style="height: {{ $height }}; width: auto; object-fit: contain;">
+            {{ else }}
+            <img src="{{ .RelPermalink }}" alt="{{ .Title }}" style="height: {{ $height }}; width: 100%; object-fit: cover;">
+            {{ end }}
         </a>
         <!-- Optional: Visible caption below the image -->
         {{ if eq $showLegend "true" }}
@@ -29,9 +34,18 @@
         border-radius: 0px;
     }
 
+    .gallery-item-cover {
+        /* Cropped mode - default behavior */
+    }
+
+    .gallery-item-contain {
+        /* Aspect ratio preserving mode */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
     .gallery-item img {
-        width: 100%;
-        object-fit: cover;
         display: block;
         margin: 0;
     }
