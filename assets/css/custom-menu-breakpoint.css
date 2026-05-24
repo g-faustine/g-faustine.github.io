@@ -1,0 +1,26 @@
+/* Custom menu breakpoint override for Congo theme */
+/* This file overrides the default sm: (640px) breakpoint to lg: (1024px) */
+
+/* Hide hamburger menu on screens >= 1024px (lg breakpoint) */
+@media (min-width: 1024px) {
+  #menu-button {
+    display: none !important;
+  }
+}
+
+/* Show desktop menu on screens >= 1024px (lg breakpoint) */
+@media (min-width: 1024px) {
+  nav ul.hidden {
+    display: flex !important;
+  }
+}
+
+/* Ensure hamburger is visible below 1024px */
+@media (max-width: 1023px) {
+  #menu-button {
+    display: block !important;
+  }
+  nav ul.hidden {
+    display: none !important;
+  }
+}
