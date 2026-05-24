@@ -2,10 +2,12 @@
     <div class="banner-image-container">
         <img src="/images/gentianes2.jpg" alt="Banner Image" class="banner-image">
         <div class="banner-overlay">
-            <h1>Faustine Geromel 
-                <br>
-                Accompagnatrice en montagne
-            </h1>
+            <a href="/" class="banner-title-link">
+                <h1>Faustine Geromel 
+                    <br>
+                    Accompagnatrice en montagne
+                </h1>
+            </a>
         </div>
     </div>
     <!-- <div class="banner-content">
@@ -51,6 +53,17 @@
         margin: 0;
         font-size: 1.5rem;
         font-weight: 1000;
+    }
+
+    .banner-title-link {
+        text-decoration: none;
+        color: inherit;
+        cursor: pointer;
+        transition: opacity 0.2s ease;
+    }
+
+    .banner-title-link:hover {
+        opacity: 0.8;
     }
 
     .banner-content {

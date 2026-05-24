@@ -16,3 +16,12 @@ h3 {
     font-size: 1.75rem;
     line-height: 2.5rem;
 }
+
+/* Reduce menu text size */
+header nav ul li {
+  font-size: 1.0rem;
+}
+
+header nav a {
+  font-size: 1.0rem;
+}
