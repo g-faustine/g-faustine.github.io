@@ -20,7 +20,7 @@ enableImageWebp = true
 fingerprintAlgorithm = "sha256"
 
 [header]
-layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
+layout = "custom" # valid options: basic, hamburger, hybrid, custom
 # logo = "images/faustine.jpg"
 # logoDark = "img/dark-logo.jpg"
 showTitle = true
@@ -59,7 +59,6 @@ showTableOfContents = false
 showTaxonomies = false
 showWordCount = false
 showComments = false
-# sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing", "bluesky"]
 
 [list]
 showBreadcrumbs = false
