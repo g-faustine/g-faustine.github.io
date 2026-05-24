@@ -28,7 +28,7 @@ Je suis formée à la communication non violente : la bienveillance, l'écoute e
 Hâte de vous retrouver sur les sentiers !
 
 {{< figure
-  src="/images/hetres_2.jpg"
+  src="/images/hetres.jpg"
   alt="forêt de hêtres"
   caption=""
   class="ma0 w-75"
