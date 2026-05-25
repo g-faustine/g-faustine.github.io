@@ -8,7 +8,7 @@ weight = 10
 +++
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="faustine2.jpg" alt="Faustine Geromel Mountain Guide Grenoble" style="width: 500px; height: auto; border-radius: 0px;">
+  <img src="/images/faustine2.jpg" alt="Faustine Geromel Mountain Guide Grenoble" style="width: 500px; height: auto; border-radius: 0px;">
 </div>
 
 I have been close to the mountains and hiking since childhood, when my parents would take me on hikes during the holidays. Later, I discovered the magic of trekking and bivouacking. In 2022, I settled in Grenoble and embarked on the adventure of mountain guiding.

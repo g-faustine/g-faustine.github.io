@@ -5,17 +5,19 @@ weight = 1
 
 title = "Faustine Geromel"
 # copyright = "Copy, _right?_ :thinking_face:"
+copyright = "© 2026 Faustine Geromel"
+
 
 [params]
 dateFormat = "2 January 2006"
 
 mainSections = ["posts"]
-description = "Montain guide"
+description = "Hiking guide"
 
 [params.author]
 name = "Faustine"
 image = "images/faustine2.jpg"
-headline = "Mountain guide"
+headline = "Hiking guide"
 bio = "A little bit about you"
 # links = [
 #   { email = "mailto:hello@your_domain.com" },

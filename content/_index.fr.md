@@ -8,7 +8,7 @@ weight = 10
 +++
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="faustine2.jpg" alt="Faustine Geromel Accompagnatrice en Montagne Grenoble" style="width: 500px; height: auto; border-radius: 0px;">
+  <img src="/images/faustine2.jpg" alt="Faustine Geromel Accompagnatrice en Montagne Grenoble" style="width: 500px; height: auto; border-radius: 0px;">
 </div>
 
 <!-- {{< image-text image="faustine2.jpg" alt="Chardon" width="350px" side="left">}}
