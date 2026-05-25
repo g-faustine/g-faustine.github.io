@@ -101,7 +101,7 @@ Peu fréquenté, le Rocher du Baconnet offre une vue imprenable sur le Trièves,
 
 ### Tour du Vallon d'Hurtières
 
-Une très belle hêtraie ouvre et clotûre ce parcours, qui vous conduit dans les paysages ouverts du vallon d'Hurtières, au pied de la dalle calcaire de la Grande Sure. Une météo dégagée permettra même de profiter d'une vue sur le Mont Blanc.
+Une très belle hêtraie ouvre et clôtûre ce parcours, qui vous conduit dans les paysages ouverts du vallon d'Hurtières, au pied de la dalle calcaire de la Grande Sure. Une météo dégagée permettra même de profiter d'une vue sur le Mont Blanc.
 
 - Durée : une journée
 - Difficulté : moyenne

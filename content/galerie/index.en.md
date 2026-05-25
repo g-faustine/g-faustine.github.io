@@ -1,12 +1,9 @@
 ---
-title: "Galerie"
+title: "Gallery"
 date: 2025-12-20
 type: "gallery"
-summary : false
+summary: false
 resources:
-#   - src: "images/assets/images/galerie/*.jpg"
-#     title: "Gallery Images"
-
   - src: "images/001_faustine_oeille.jpg"
     title: "Pas de l'Oeille, Vercors"
   
@@ -25,7 +22,6 @@ resources:
   - src: "images/105_chaumailloux.jpg"
     title: "Pas de l'Aiguille, Vercors"
 
-
   - src: "images/balcons_vercors.jpg"
     title: "Les balcons du Vercors"
 
@@ -33,7 +29,7 @@ resources:
     title: "Col de la Sitre, Belledonne"
     
   - src: "images/202_bivouac_nuit.jpg"
-    title: "La magie du bivouac à la nuit tombée"
+    title: "The magic of bivouac at nightfall"
 
   - src: "images/203_col_rocheure.jpg"
     title: "Col Rocheure, Belledonne"
@@ -57,7 +53,7 @@ resources:
     title: "Pointe Leschaux, Vanoise"
 
   - src: "images/500_bouquetins.jpg"
-    title: "Bouquetins, Vercors"
+    title: "Ibex, Vercors"
 
   - src: "images/501_taillefer.jpg"
     title: "Plateau des Lacs, Taillefer"
@@ -74,8 +70,7 @@ resources:
   - src: "images/608_Lacvaches.jpg"
     title: "Lac des Vaches, Vanoise"
     
-weight : 100
+weight: 100
 ---
-Quelques images de sorties réalisées :
+Some images from past outings:
 {{< gallery folder="images" height="200px" maxWidth="300px" >}}
-

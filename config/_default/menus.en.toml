@@ -16,14 +16,34 @@
 #   weight = 10
 
 [[main]]
-name = "Botanique"
-pageRef = "posts/botanique"
+name = "Day Hikes"
+pageRef = "rando journee"
+weight = 5
+
+[[main]]
+name = "Themed Outings"
+pageRef = "sortie theme"
+weight = 10
+
+[[main]]
+name = "Multi-day Trekking"
+pageRef = "rando itinerante"
 weight = 20
 
-# [[main]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 30
+[[main]]
+name = "Custom Project"
+pageRef = "projet sur mesure"
+weight = 30
+
+[[main]]
+name = "Contact"
+pageRef = "contact"
+weight = 50
+
+[[main]]
+name = "Gallery"
+pageRef = "galerie"
+weight = 40
 
 [[main]]
 identifier = "search"
@@ -41,7 +61,17 @@ action = "locale"
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Legal Notices"
+  pageRef = "mentions legales"
+  weight = 10
+
+  [[footer]]
+  name = "General Terms and Conditions of Sale"
+  pageRef = "CGV"
+  weight = 20
+
+   [[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 30
