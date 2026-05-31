@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://faustine-geromel.com/sitemap.xml
+Sitemap: https://faustine-geromel.com/sitemap.xml
