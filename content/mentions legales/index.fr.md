@@ -17,15 +17,14 @@ Fausitne Geromel Accompagnatrice en Montagne
 - Code NAF : 9319Z
 - Téléphone : 06 25 67 21 80
 - Adresse mail : faustine.geromel@gmail.com
-- Site web : xxxxxx
+- Site web : https://faustine-geromel.com/
 
 ## Site web
 
 Conception : ce site est généré à l’aide du générateur de site statique Hugo, distribué sous licence Apache 2.0.
 Le thème utilisé est Congo, distribué sous licence MIT. La responsable de la publication est Faustine Geromel.
 
-Hébergement : ce site est hébergé par 
-<!-- la SAS OVH située au « 2, rue Kellermann – BP 80157 – 59100 ROUBAIX – FRANCE ». Téléphone : 0 820 698 765 N° indigo (0,118 €/min) -->
+Hébergement : ce site est hébergé par GitHub.
 
 ## Propriété intellectuelle
 

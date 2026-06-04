@@ -36,7 +36,7 @@ resources:
     title: "La magie du bivouac à la nuit tombée"
 
   - src: "images/203_col_rocheure.jpg"
-    title: "Col Rocheure, Belledonne"
+    title: "Col Rocheure, Vanoise"
 
   - src: "images/301_lac_miroir.jpg"
     title: "Lac Miroir, Queyras"
@@ -51,7 +51,7 @@ resources:
     title: "Lacs de la Tempête, Beaufortain"
 
   - src: "images/401_soleil_levant.jpg"
-    title: "Pasisère de la Sapie, Baronnies"
+    title: "Passière de la Sapie, Baronnies"
 
   - src: "images/402_pointe_leschaux.jpg"
     title: "Pointe Leschaux, Vanoise"
