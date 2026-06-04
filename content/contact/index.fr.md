@@ -12,4 +12,4 @@ Pour toute demande, contactez-moi par mail ou par téléphone :
 
 06 25 67 21 80
 
-<!-- {{< google-reviews embed-id="25672037" >}} -->
+{{< google-reviews embed-id="25672037" >}}

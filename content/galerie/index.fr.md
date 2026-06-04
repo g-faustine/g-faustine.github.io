@@ -33,7 +33,7 @@ resources:
     title: "Col de la Sitre, Belledonne"
     
   - src: "images/202_bivouac_nuit.jpg"
-    title: "La magie du bivouac à la nuit tombée"
+    title: "Bivouac, Alpilles"
 
   - src: "images/203_col_rocheure.jpg"
     title: "Col Rocheure, Vanoise"

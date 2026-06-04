@@ -9,25 +9,25 @@ resources:
  #   Plantes curieuses
   - src: "images_plantes_curieuses/01_euphraise.jpg"
     alt: "Euphraise officinale plante médicinale théorie des signatures"
-    title: ""
+    title: "Euphraise officinale"
     # Casse lunettes : théorie des signatures, oeil injecté de sang
 
   - src: "images_plantes_curieuses/02_molene.jpg"
     alt: "Molène plante médicinale"
-    title: ""
+    title: "Molène de Boerhaave"
 
   - src: "images_plantes_curieuses/03_cymbalaire.jpg"
     alt: "Plante cymbalaire des murs"
-    title: ""
+    title: "Cymbalaire des murs"
 
   - src: "images_plantes_curieuses/04_lavatere.jpg"
     alt: "Lavatere maritime plante méditerranéenne"
-    title: ""
+    title: "Lavatère maritime"
 
  #   Botaniste en herbe
   - src: "images_bota/01_chartreuse.jpg"
     alt: "Randonnée botanique en Chartreuse rumex comestible"
-    title: ""
+    title: "Randonnée botanique en Chartreuse"
 
   - src: "images_bota/02_hetres.jpg"
     alt: "Foret de hetres"
@@ -35,28 +35,28 @@ resources:
 
   - src: "images_bota/03_chardon_alpes.jpg"
     alt: "Chardon des alpes dans les Ecrins"
-    title: ""
+    title: "Chardon bleu des Alpes"
 
   - src: "images_bota/04_orchidee.jpg"
     alt: "Orchidée dans le Vercors"
-    title: ""
+    title: "Randonnée botanique dans le Vercors"
   
   #   Oiseaux
   - src: "images_oiseaux/grive.jpg"
     alt: "Grive musicienne"
-    title: ""
+    title: "Grive musicienne ©Faustine Geromel"
 
   - src: "images_oiseaux/pinson.jpg"
     alt: "Pinson des arbres"
-    title: ""
+    title: "Pinson des arbres ©Faustine Geromel"
 
   - src: "images_oiseaux/fauvette.jpg"
     alt: "Fauvette à tête noire"
-    title: ""
+    title: "Fauvette à tête noire ©Faustine Geromel"
 
   - src: "images_oiseaux/rougequeue.jpg"
     alt: "Rougequeue noir"
-    title: ""
+    title: "Rougequeue noir ©Faustine Geromel"
 ---
 
 ## Randonnées botaniques

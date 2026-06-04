@@ -13,7 +13,7 @@ weight = 10
 
 I have been close to the mountains and hiking since childhood, when my parents would take me on hikes during the holidays. Later, I discovered the magic of trekking and bivouacking. In 2022, I settled in Grenoble and embarked on the adventure of mountain guiding.
 
-I pursue this activity alongside a salaried job as an engineer in the construction industry, specializing in energy renovation. These two activities are deeply complementary for me: as an engineer, I want to contribute to a more environmentally respectful future. The mountains, by constantly amazing me, remind me why I dedicate my energy every day to preserving the natural environments in which we live.
+I pursue this activity alongside a job as a building engineer, specializing in energy retrofit. These two activities are deeply complementary for me: as an engineer, I want to contribute to a more environmentally respectful future. The mountains, by constantly amazing me, remind me why I dedicate my energy every day to preserving the natural environments in which we live.
 
 I feel this wonder at all scales: from the flower I observe with a magnifying glass to the immensity of the landscapes and the unleashing of the elements, including unexpected encounters with animals or the special atmosphere of a misty forest. If I take people to the mountains, it's to share and pass on this love and curiosity for what surrounds us!
 

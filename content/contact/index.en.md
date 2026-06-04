@@ -11,4 +11,4 @@ For any request, contact me by email or phone:
 
 +33 6 25 67 21 80
 
-<!-- {{< google-reviews embed-id="25672037" >}} -->
+{{< google-reviews embed-id="25672037" >}}

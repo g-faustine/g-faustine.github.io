@@ -9,24 +9,24 @@ resources:
   # Curious Plants
   - src: "images_plantes_curieuses/01_euphraise.jpg"
     alt: "Euphrasia officinalis medicinal plant signature theory"
-    title: ""
+    title: "Euphrasia officinalis"
 
   - src: "images_plantes_curieuses/02_molene.jpg"
     alt: "Mullein medicinal plant"
-    title: ""
+    title: "Verbascum boerhavii"
 
   - src: "images_plantes_curieuses/03_cymbalaire.jpg"
     alt: "Cymbalaria muralis plant"
-    title: ""
+    title: "Cymbalaria muralis"
 
   - src: "images_plantes_curieuses/04_lavatere.jpg"
-    alt: "Lavatera maritime Mediterranean plant"
-    title: ""
+    alt: "Lavatera maritima Mediterranean plant"
+    title: "Lavatera maritima"
 
   # Botanist in Training
   - src: "images_bota/01_chartreuse.jpg"
     alt: "Botanical hike in Chartreuse edible rumex"
-    title: ""
+    title: "Botanical hike in Chartreuse"
 
   - src: "images_bota/02_hetres.jpg"
     alt: "Beech forest"
@@ -34,28 +34,28 @@ resources:
 
   - src: "images_bota/03_chardon_alpes.jpg"
     alt: "Alpine thistle in Ecrins"
-    title: ""
+    title: "Queen of the Alps"
 
   - src: "images_bota/04_orchidee.jpg"
     alt: "Orchid in Vercors"
-    title: ""
+    title: "Botanical hicke in Vercors"
 
   # Birds
   - src: "images_oiseaux/grive.jpg"
     alt: "Song Thrush"
-    title: ""
+    title: "Song Thrush"
 
   - src: "images_oiseaux/pinson.jpg"
     alt: "Chaffinch"
-    title: ""
+    title: "Chaffinch"
 
   - src: "images_oiseaux/fauvette.jpg"
     alt: "Blackcap"
-    title: ""
+    title: "Blackcap"
 
   - src: "images_oiseaux/rougequeue.jpg"
     alt: "Black Redstart"
-    title: ""
+    title: "Black Redstart"
 ---
 
 ## Botanical Hikes
