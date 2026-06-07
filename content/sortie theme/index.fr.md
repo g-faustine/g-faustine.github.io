@@ -29,13 +29,13 @@ resources:
     alt: "Randonnée botanique en Chartreuse rumex comestible"
     title: "Randonnée botanique en Chartreuse"
 
-  - src: "images_bota/02_hetres.jpg"
-    alt: "Foret de hetres"
-    title: ""
+  - src: "images_bota/03_dessin.jpg"
+    alt: "Initiation botanique"
+    title: "Observer, dessiner"
 
-  - src: "images_bota/03_chardon_alpes.jpg"
-    alt: "Chardon des alpes dans les Ecrins"
-    title: "Chardon bleu des Alpes"
+  - src: "images_bota/02_Champ.jpg"
+    alt: "Randonnée botanique en Chartreuse"
+    title: "Randonnée botanique en Chartreuse"
 
   - src: "images_bota/04_orchidee.jpg"
     alt: "Orchidée dans le Vercors"
