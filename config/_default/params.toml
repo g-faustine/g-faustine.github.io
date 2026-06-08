@@ -23,7 +23,7 @@ fingerprintAlgorithm = "sha256"
 layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
 # logo = "images/faustine.jpg"
 # logoDark = "img/dark-logo.jpg"
-showTitle = true
+showTitle = false
 
 [banner]
 enable = true

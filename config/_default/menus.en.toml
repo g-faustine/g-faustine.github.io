@@ -16,6 +16,11 @@
 #   weight = 10
 
 [[main]]
+name = "Home"
+pageRef = "/"
+weight = 2
+
+[[main]]
 name = "Day Hikes"
 pageRef = "rando journee"
 weight = 5
@@ -66,12 +71,12 @@ action = "locale"
   pageRef = "mentions legales"
   weight = 10
 
-  [[footer]]
-  name = "General Terms and Conditions of Sale"
-  pageRef = "CGV"
-  weight = 20
+[[footer]]
+name = "General Terms and Conditions of Sale"
+pageRef = "CGV"
+weight = 20
 
-   [[footer]]
-  name = "Contact"
-  pageRef = "contact"
-  weight = 30
+  [[footer]]
+name = "Contact"
+pageRef = "contact"
+weight = 30
