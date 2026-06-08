@@ -10,20 +10,20 @@ resources:
  #Balcons
   - src: "images_balcons/01_balcons_vercors.jpg"
     alt: "Randonnee falaises Vercors"
-    title: ""
+    title: "Balcons Est du Vercors"
 
   - src: "images_balcons/03_falaises.jpg"
     alt: "Vercors mer de nuages"
-    title: ""
+    title: "Balcons Est du Vercors"
 
  #Baconnet
   - src: "images_baconnet/01_baconnet.jpg"
     alt: "Rocher du Baconnet Trièves"
-    title: ""
+    title: "Rocher du Baconnet"
 
   - src: "images_baconnet/02_aiguille.jpg"
     alt: "Mont Aiguille"
-    title: ""
+    title: "Mont Aiguille"
 
  #Hurtieres
   - src: "images_charmette/01_vallon.jpg"
@@ -82,9 +82,9 @@ Une randonnée au pied des falaises majestueuses du Vercors, offrant une vue pan
 - Dates : sur demande
 - Tarif pour groupe constitué : 250€
 
-{{< gallery folder="images_balcons" height="250px" maxWidth="350px">}}
+{{< gallery folder="images_balcons" height="200px" maxWidth="350px">}}
 
-### Rocher du Baconnet
+### Rocher du Baconnets
 
 Peu fréquenté, le Rocher du Baconnet offre une vue imprenable sur le Trièves, les falaises du Vercors et le mythique Mont Aiguille.
 
@@ -95,13 +95,13 @@ Peu fréquenté, le Rocher du Baconnet offre une vue imprenable sur le Trièves,
 - Dates : sur demande
 - Tarif pour groupe constitué : 250€
 
-{{< gallery folder="images_baconnet" height="250px" maxWidth="350px">}}
+{{< gallery folder="images_baconnet" height="200px" maxWidth="350px">}}
 
 ## Chartreuse
 
 ### Tour du Vallon d'Hurtières
 
-Une très belle hêtraie ouvre et clôtûre ce parcours, qui vous conduit dans les paysages ouverts du vallon d'Hurtières, au pied de la dalle calcaire de la Grande Sure. Une météo dégagée permettra même de profiter d'une vue sur le Mont Blanc.
+Une très belle hêtraie ouvre et clotûre ce parcours, qui vous conduit dans les paysages ouverts du vallon d'Hurtières, au pied de la dalle calcaire de la Grande Sure. Une météo dégagée permettra même de profiter d'une vue sur le Mont Blanc.
 
 - Durée : une journée
 - Difficulté : moyenne
@@ -110,7 +110,7 @@ Une très belle hêtraie ouvre et clôtûre ce parcours, qui vous conduit dans l
 - Dates : sur demande
 - Tarif pour groupe constitué : 250€
 
-{{< gallery folder="images_charmette" height="250px" maxWidth="350px">}}
+{{< gallery folder="images_charmette" height="200px" maxWidth="350px">}}
 
 ## Belledonne
 
@@ -137,4 +137,4 @@ Le tour du Grand Replomb offre une grande variété de paysages, typiques du mas
 - Dates : sur demande
 - Tarif pour groupe constitué : 250€
 
-{{< gallery folder="images_belledonne" height="250px" maxWidth="350px">}}
+{{< gallery folder="images_belledonne" height="200px" maxWidth="350px">}}
