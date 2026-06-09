@@ -24,17 +24,17 @@ resources:
     title: "Lavatera maritima"
 
   # Botanist in Training
-  - src: "images_bota/01_chartreuse.jpg"
+  - src: "images_bota/01_Champ.jpg"
     alt: "Botanical hike in Chartreuse edible rumex"
     title: "Botanical hike in Chartreuse"
 
-  - src: "images_bota/02_hetres.jpg"
+  - src: "images_bota/00_dessin.jpg"
     alt: "Beech forest"
-    title: ""
+    title: "Learn by drawing"
 
-  - src: "images_bota/03_chardon_alpes.jpg"
-    alt: "Alpine thistle in Ecrins"
-    title: "Queen of the Alps"
+  - src: "images_bota/03_atelier.jpg"
+    alt: ""
+    title: "Botanical hike in Chartreuse"
 
   - src: "images_bota/04_orchidee.jpg"
     alt: "Orchid in Vercors"

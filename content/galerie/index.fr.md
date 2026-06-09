@@ -62,6 +62,9 @@ resources:
   - src: "images/501_taillefer.jpg"
     title: "Plateau des Lacs, Taillefer"
 
+  - src: "images/501_chartreuse.jpg"
+    title: "Habert de Chamechaude, Chartreuse"
+
   - src: "images/502_lac_trecolpas.jpg"
     title: "Lac de Trecolpas, Mercantour"
 

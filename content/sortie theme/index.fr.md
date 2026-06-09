@@ -25,15 +25,15 @@ resources:
     title: "Lavatère maritime"
 
  #   Botaniste en herbe
-  - src: "images_bota/01_chartreuse.jpg"
+  - src: "images_bota/03_atelier.jpg"
     alt: "Randonnée botanique en Chartreuse rumex comestible"
-    title: "Randonnée botanique en Chartreuse"
+    title: "Initiation botanique en Chartreuse"
 
-  - src: "images_bota/03_dessin.jpg"
+  - src: "images_bota/00_dessin.jpg"
     alt: "Initiation botanique"
     title: "Observer, dessiner"
 
-  - src: "images_bota/02_Champ.jpg"
+  - src: "images_bota/01_Champ.jpg"
     alt: "Randonnée botanique en Chartreuse"
     title: "Randonnée botanique en Chartreuse"
 
