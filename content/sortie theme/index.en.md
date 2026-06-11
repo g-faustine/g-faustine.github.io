@@ -84,7 +84,7 @@ The goal of this outing is twofold: to give you basic methods for recognizing pl
 
 - Duration: one day
 - Difficulty: easy
-- Audience: adults, maximum 10 people
+- Audience: adults and children from 14 years old, maximum 10 people
 - Location: around Grenoble, depending on the season (vegetation progress) and your preferences
 - Dates: on request, from April to August
 - Rate for a constituted group: €250
@@ -102,7 +102,7 @@ For the duration of a mountain hike, let's open our ears wide to be charmed by t
 
 - Duration: one day
 - Difficulty: easy
-- Audience: adults, maximum 10 people
+- Audience: adults ans children from 14 years old, maximum 10 people
 - Location: according to your preferences and the season, around Grenoble
 - Dates: on request, from April to August
 - Rate for a constituted group: €250

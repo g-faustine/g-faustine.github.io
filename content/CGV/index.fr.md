@@ -20,7 +20,7 @@ Le/la client·e accepte l’éventualité que la météo, les conditions d’enn
 
 ## Annulation et droit de rétractation
 
-En cas d’annulation par le/la client·e moins de 10 jours ouvrables avant le début de la prestation, le/la client·e est tenu de régler l'intégralité du coût de la prestation.
+En cas d’annulation par le/la client·e moins de 10 jours ouvrables avant le début de la prestation, le/la client·e est tenu·e de régler l'intégralité du coût de la prestation.
 En cas d’annulation par le/ la client·e plus de 10 jours ouvrables avant le début de la prestation, l’acompte versé restera acquis et ne pourra faire l’objet d’aucun remboursement.
 
 Toute demande d’annulation devra être notifiée par écrit (email, SMS ou courrier postal).
