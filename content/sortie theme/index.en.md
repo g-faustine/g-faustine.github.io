@@ -69,7 +69,7 @@ Take a walk and open your eyes to the plants along the path: many of them hold s
 - Audience: adults and children from 12 years old, maximum 10 people
 - Dates: on request, from April to August
 - Location: around Grenoble, depending on the season (vegetation progress) and your preferences
-- Rate for a constituted group: €150
+- Rate for a constituted group: €160
 
 [Contact me]({{< relref "/contact" >}}) to choose a date and destination together!
 

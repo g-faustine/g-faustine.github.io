@@ -72,7 +72,7 @@ De quoi éveiller votre curiosité !
 - Public : adultes et enfants à partir de 12 ans, 10 personnes maximum
 - Dates : sur demande, d'avril à août
 - Lieu : aux alentours de Grenoble, selon la saison (avancement de la végétation) et vos envies
-- Tarif pour groupe constitué : 150€
+- Tarif pour groupe constitué : 160€
 
 [Contactez-moi]({{< relref "/contact" >}}) pour choisir ensemble une date et une destination !
 
@@ -87,7 +87,7 @@ L'objectif de cette sortie est double : vous donner des bases de méthode pour r
 
 - Durée : une journée
 - Difficulté : facile
-- Public : adultes, 10 personnes maximum
+- Public : adultes et ados à partir de 14 ans, 10 personnes maximum
 - Lieu : aux alentours de Grenoble, selon la saison (avancement de la végétation) et vos envies
 - Dates : sur demande, d'avril à août
 - Tarif pour groupe constitué : 250€
@@ -105,7 +105,7 @@ Le temps d'une randonnée en montagne, ouvrons grand nos oreilles pour nous lais
 
 - Durée : une journée
 - Difficulté : facile
-- Public : adultes, 10 personnes maximum
+- Public : adultes et enfants à partir de 12 ans, 10 personnes maximum
 - Lieu : selon vos envies et la saison, aux alentours de Grenoble
 - Dates : sur demande, d'avril à août
 - Tarif pour groupe constitué : 250€
