@@ -84,7 +84,7 @@ Une randonnée au pied des falaises majestueuses du Vercors, offrant une vue pan
 
 {{< gallery folder="images_balcons" height="200px" maxWidth="350px">}}
 
-### Rocher du Baconnets
+### Rocher du Baconnet
 
 Peu fréquenté, le Rocher du Baconnet offre une vue imprenable sur le Trièves, les falaises du Vercors et le mythique Mont Aiguille.
 

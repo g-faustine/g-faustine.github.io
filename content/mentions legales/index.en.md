@@ -32,7 +32,7 @@ All content on this site (texts, images, etc.) is protected by copyright. Any re
 
 ## Regulated Activity
 
-I hold an [equivalent to the State diploma of mountain guide](Documentstagiaire.png) (trainee status valid from 03/06/2023 to 02/06/2028, opening the prerogatives of day or multi-day trekking in guarded huts, in summer conditions). I am registered with the Departmental Service for Youth, Engagement, and Sports of Isère.
+I am a [qualified mountain leader](diplomeAMM.png). I am registered with the Departmental Service for Youth, Engagement, and Sports of Isère.
 
 My activity is covered by:
 - Professional civil liability insurance taken out with AN3S (47 Bis Rue Gambetta 71120 CHAROLLES), contract no. 675047304.

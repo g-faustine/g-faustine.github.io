@@ -17,7 +17,7 @@ I pursue this activity alongside a job as a building engineer, specializing in e
 
 I feel this wonder at all scales: from the flower I observe with a magnifying glass to the immensity of the landscapes and the unleashing of the elements, including unexpected encounters with animals or the special atmosphere of a misty forest. If I take people to the mountains, it's to share and pass on this love and curiosity for what surrounds us!
 
-As a mountain guide in training (soon to be qualified, all being well! I have had the prerogatives to lead groups since 2023), I accompany you safely on day trips or half-day trips (including themed outings), or on multi-day treks around Grenoble or elsewhere in the Alps.
+As a qualified mountain leader, I accompany you safely on day trips or half-day trips (including themed outings), or on multi-day treks around Grenoble or elsewhere in the Alps.
 
 I am trained in non-violent communication: benevolence, listening, and attention are part of my values. Limiting my impact when going to the mountains is also close to my heart: whenever possible, I offer trips accessible by public transport; when this is not possible, we maximize carpooling.
 

@@ -21,7 +21,7 @@ Je mène cette activité en parallèle d'un emploi en tant qu'ingénieure dans l
 Cet émerveillement, je le ressens à toutes les échelles : depuis la fleur que j'observe à la loupe, jusqu'à l'immensité des paysages et au déchaînement des éléments, en passant par la rencontre inattendue avec un animal ou l'ambiance particulière d'une forêt brumeuse.
 Si j'emmène des personnes en montagne, c'est pour transmettre et partager cet amour et cette curiosité de ce qui nous entoure !
 
-Accompagnatrice en montagne en devenir (bientôt titulaire si tout se passe bien ! je dispose des prérogatives pour encadrer depuis 2023), je vous accompagne en toute sécurité, lors de sorties à la journée ou demi-journée (sorties thématiques notamment), ou bien lors de randonnées itinérantes sur plusieurs jours, autour de Grenoble ou ailleurs dans les Alpes.
+Titulaire du diplôme d'accompagnatrice en moyenne montagne, je vous accompagne en toute sécurité lors de sorties à la journée ou demi-journée (sorties thématiques notamment), ou bien lors de randonnées itinérantes sur plusieurs jours, autour de Grenoble ou ailleurs dans les Alpes.
 
 Je suis formée à la communication non violente : la bienveillance, l'écoute et l'attention font partie de mes valeurs. Limiter mon impact en allant en montagne me tient également à coeur : dans la mesure du possible, je propose des sorties accessibles en transports en commun ; lorsque ce n'est pas le cas, privilégions le covoiturage au maximum.
 

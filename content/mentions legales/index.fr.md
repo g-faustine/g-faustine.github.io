@@ -33,7 +33,7 @@ L’ensemble des contenus présents sur ce site (textes, images...) est protég�
 
 ## Activité règlementée
 
-Je suis titulaire d'un [équivalent au diplôme d’État d’accompagnateur en montagne](Documentstagiaire.png) (statut de stagiaire valide du 03/06/2023 au 02/06/2028, ouvrant les prérogatives d'accompagnement à la journée ou en itinérance en refuge gardé, en conditions estivales). Je suis déclarée auprès du Service Départemental à la Jeunesse, à l’Engagement et aux Sports de l’Isère.
+Je suis titulaire du [diplôme d’État d’accompagnatrice en moyenne montagne](diplomeAMM.png). Je suis déclarée auprès du Service Départemental à la Jeunesse, à l’Engagement et aux Sports de l’Isère.
 
 
 Mon activité est couverte par : 
